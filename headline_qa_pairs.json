@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0_1",
+    "Question": "Headline: \"Gold falls to Rs 30,800; silver down at Rs 41,200 per kg\" Now answer this question: Does the news headline talk about price in the past?",
+    "Answer": "Yes",
+    "class_id": 0,
+    "gold_index": 1
+  },
+  {
+    "id": "0_2",
+    "Question": "Headline: \"gold futures add to gains after adp data\" Now answer this question: Does the news headline talk about price?",
+    "Answer": "Yes",
+    "class_id": 0,
+    "gold_index": 1
+  },
+  {
+    "id": "0_3",
+    "Question": "Headline: \"Gold holds on to modest loss after data\" Now answer this question: Does the news headline talk about price in the future?",
+    "Answer": "No",
+    "class_id": 0,
+    "gold_index": 1
+  },
+  {
+    "id": "0_4",
+    "Question": "Headline: \"spot gold quoted at $417.50, down 20c from new york\" Now answer this question: Does the news headline talk about a general event (apart from prices) in the past?",
+    "Answer": "No",
+    "class_id": 0,
+    "gold_index": 1
+  },
+  {
+    "id": "0_5",
+    "Question": "Headline: \"gold hits new record high at $1,036.20 an ounce\" Now answer this question: Does the news headline compare gold with any other asset?",
+    "Answer": "No",
+    "class_id": 0,
+    "gold_index": 1
+  }
+]
